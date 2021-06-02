@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f70730d6dd41aa4d9c2bbdcce1356f3, type: 3}
+  m_Name: TargetQuest
+  m_EditorClassIdentifier: 
+  questName: Shooting some Targets!
+  description: In order to help out you're going to need to be equipped. Try shooting
+    the targets.
+  completed: Great job. Your rifle is very precise, and can be used at long ranges.
